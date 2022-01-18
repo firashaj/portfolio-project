@@ -1,0 +1,80 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-home fa-2x",
+      "title": "Ui/Ux Web Design",
+      "body": "Inspiration , Design , Animation , Adobe XD , Prototypes , Wireframes , Research , Color , User interface , User experience. "
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-mobile fa-2x",
+      "title": "Ui/Ux Mobile Design",
+      "body": "Inspiration , Design , Animation , Adobe XD , App mobile , Prototypes , Wireframes , Research , Color , User interface , User experience."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Front-end Developer",
+      "body": "HTML 5 , CSS3 , React Js , Angular , VS code , Algorithms , JavaScript. "
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/images/caret visite mockup.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/1.png"
+    },
+    {
+      "id": 3,
+      "image": "/images/8.png"
+    },
+    {
+      "id": 4,
+      "image": "/images/3.png"
+    },
+    {
+      "id": 5,
+      "image": "/images/4.png"
+    },
+    {
+      "id": 6,
+      "image": "/images/5.png"
+    },
+    {
+      "id": 7,
+      "image": "/images/6.png"
+    },
+    {
+      "id": 8,
+      "image": "/images/7.png"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa fa-linkedin fa-lg",
+      "title": "Follow Me on",
+      "body": "Linkedin",
+      "link":"https://www.linkedin.com/in/firas-haj-1489a9153/"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa fa-instagram fa-lg",
+      "title": "Follow Me on",
+      "body": "Instagram",
+      "link":"https://www.instagram.com/firas_marcelo/"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa fa-behance fa-lg",
+      "title": "Follow Me on",
+      "body": "Behance",
+      "link":"https://www.behance.net/hajfiras"
+    }
+  ]
+}
